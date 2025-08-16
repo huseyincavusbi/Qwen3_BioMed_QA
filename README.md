@@ -42,3 +42,10 @@ The `Qwen3_(14B)_PubMed_QA.ipynb` notebook walks through the entire process:
 ## Results
 
 After fine-tuning, the model is capable of accurately answering questions and providing context-aware explanations, as shown in the inference section of the notebook. The entire process, from setup to a trained model, can be completed in approximately 2 hours on a single T4 GPU.
+
+## Adapters on [Hugging Face](https://huggingface.co/huseyincavus/Qwen3-14B-PubMedQA-lora-adapters)
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
